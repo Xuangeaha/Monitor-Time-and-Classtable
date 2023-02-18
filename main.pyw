@@ -41,23 +41,23 @@ is_4 = a[0] == "Thu"
 is_5 = a[0] == "Fri"
 
 if is_1:
-    monitor = "周子辰"
+    monitor = "崔小三"
     class_list = ["物理","语文","道法","化学","英语","美术","体育","数学",""]
 elif is_2:
-    monitor = "江华"
+    monitor = "张小四"
     class_list = ["英语","化学","语文","数学","体育","英语","语文","物理","自修"]
 elif is_3:
-    monitor = "陈邵祺"
+    monitor = "王小五"
     class_list = ["生命科学","英语","道法","物理","语文","体育","化学","语文","数学"]
 elif is_4:
-    monitor = "尤景暄"
+    monitor = "李小六"
     class_list = ["道法","化学","物理","体育","语文","数学","数学","英语","英语"]
 elif is_5:
-    monitor = "张扬"
+    monitor = "陈小七"
     class_list = ["英语","化学","物理","语文","体育","数学","数学","班会","自修"]
 else:
-    monitor = "朱欣诚"
-    class_list = ["美术","沙画","音乐","法语","生命科学","体育","体育","88","99"]
+    monitor = "朱小八"
+    class_list = ["美术","沙画","音乐","法语","生命科学","体育","体育","",""]
 
 class_colour = ["","Black","Black","Black","Black","Black","Black","Black","Black","Black"]
 
